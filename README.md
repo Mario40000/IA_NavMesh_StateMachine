@@ -1,5 +1,5 @@
 # IA_NavMesh_StateMachine
-Little demo game of NavMesh and states machines in Unity3D
+Little demo game of NavMesh, A* and states machines in Unity3D
 
 This project was created in Unity3D 5.5.2f1
 
